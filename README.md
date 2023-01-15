@@ -1,4 +1,4 @@
-# A-B-Testing
+# Exploring the effectiveness of advertisements: An A/B testing case study
 
 A/B testing is a way to compare two versions of something to figure out which performs better. While it’s most often associated with websites and apps, the method is almost 100 years old and it’s one of the simplest forms of a randomized controlled experiment.
 
